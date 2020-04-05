@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Click.wav</file>
+        <file>Tetris.mp3</file>
+        <file>Failed.mp3</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>mute.svg</file>
+        <file>speaker.svg</file>
+        <file>mute.png</file>
+        <file>speaker.png</file>
+        <file>AppIcon.png</file>
+    </qresource>
+</RCC>
